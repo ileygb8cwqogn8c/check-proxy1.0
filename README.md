@@ -6,6 +6,8 @@ cd check-proxy1.0
 
 pip install requests
 
+Файл с проксями должен называться prox.txt Название вы можете поменять в коде.
+
 python check-proxy.py
 
 nl result.txt
